@@ -29,6 +29,12 @@ npm run dev
 
 https://pokemon-react-ecru.vercel.app
 
+<img width="1913" height="889" alt="image" src="https://github.com/user-attachments/assets/649f5dc4-850a-48de-937e-0e8f5969510d" />
+<img width="1907" height="875" alt="image" src="https://github.com/user-attachments/assets/0ffbe454-413f-4b7d-b0b8-40c948b346fa" />
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/65c20c63-7790-43b0-acca-944d2894754d" />
+<img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/c7346be1-c516-4480-9831-2337c8811d7a" />
+
+
 ## Struktura Projektu
 ```
 src/
