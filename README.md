@@ -13,14 +13,24 @@ Aplikacja w React korzystająca z API [PokeAPI](https://pokeapi.co/) do wyświet
 
 ## Instalacja i Uruchomienie
 
-
-
+1. Sklonuj Repyzotrium
+```
+https://github.com/TomoTomovsky/Pokemon-React.git
+```
+2. Zainstaluj Wymagane Moduły
+```
+npm install
+```
+3. Uruchom aplikację
+```
+npm run dev
+```
 ## Live Demo
 
-
+https://pokemon-react-ecru.vercel.app
 
 ## Struktura Projektu
-
+```
 src/
 ├─ components/          # Komponenty UI
 │  ├─ Header.jsx        # Nawigacja między stronami
@@ -38,7 +48,7 @@ src/
 ├─ main.jsx             # Punkt wejściowy aplikacji
 ├─ index.css            # Style globalne
 └─ App.css              # Style komponentów
-
+```
 ## Użyte Biblioteki
 
 React – do budowy SPA i komponentów.
