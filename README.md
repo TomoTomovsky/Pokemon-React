@@ -33,6 +33,7 @@ https://pokemon-react-ecru.vercel.app
 <img width="1907" height="875" alt="image" src="https://github.com/user-attachments/assets/0ffbe454-413f-4b7d-b0b8-40c948b346fa" />
 <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/65c20c63-7790-43b0-acca-944d2894754d" />
 <img width="1916" height="885" alt="image" src="https://github.com/user-attachments/assets/c7346be1-c516-4480-9831-2337c8811d7a" />
+<img width="1911" height="874" alt="image" src="https://github.com/user-attachments/assets/ad793bcd-86ce-4900-bfec-c7b01b26b9ca" />
 
 
 ## Struktura Projektu
